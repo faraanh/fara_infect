@@ -1,0 +1,12 @@
+
+"data.txt"
+"Debug"
+"fara_infect1.cpp"
+"fara_infect1.vcxproj"
+"fara_infect1.vcxproj.filters"
+"fara_infect1.vcxproj.user"
+"ReadMe.txt"
+"Release"
+"stdafx.cpp"
+"stdafx.h"
+"targetver.h"

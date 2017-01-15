@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "fara_infect", "fara_infect\fara_infect.vcxproj", "{139C1D3C-4EA9-4D81-BCB8-18E5E754E7FC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "fara_infect1", "fara_infect1\fara_infect1.vcxproj", "{0E7FED1F-7314-4499-B9F6-6E7B7729F18E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{139C1D3C-4EA9-4D81-BCB8-18E5E754E7FC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{139C1D3C-4EA9-4D81-BCB8-18E5E754E7FC}.Debug|Win32.Build.0 = Debug|Win32
+		{139C1D3C-4EA9-4D81-BCB8-18E5E754E7FC}.Debug|Win32.Deploy.0 = Debug|Win32
+		{139C1D3C-4EA9-4D81-BCB8-18E5E754E7FC}.Release|Win32.ActiveCfg = Release|Win32
+		{139C1D3C-4EA9-4D81-BCB8-18E5E754E7FC}.Release|Win32.Build.0 = Release|Win32
+		{0E7FED1F-7314-4499-B9F6-6E7B7729F18E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0E7FED1F-7314-4499-B9F6-6E7B7729F18E}.Debug|Win32.Build.0 = Debug|Win32
+		{0E7FED1F-7314-4499-B9F6-6E7B7729F18E}.Release|Win32.ActiveCfg = Release|Win32
+		{0E7FED1F-7314-4499-B9F6-6E7B7729F18E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
